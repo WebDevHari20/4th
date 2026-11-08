@@ -1,43 +1,43 @@
-# 💜 С годовщиной — Наша история
+# 💜 Happy Anniversary — Our Story
 
-Романтический одностраничный сайт, посвящённый годовщине отношений.  
-Создан с любовью, с музыкой **Bakr — Сирень** и нежными анимациями.
+A romantic one-page website dedicated to a relationship anniversary.
+Created with love, **Bakr — Lilac** music, and gentle animations.
 
-## ✨ Возможности
+## ✨ Features
 
-- 🎵 **Музыка** — песня «Сирень» на фоне с управлением звуком
-- 📸 **Фотографии** — 15 совместных фото в красивых сетках с эффектами
-- 🎬 **Видео** — 3 видео (природа, танец) с автовоспроизведением при скролле
-- ⏱ **Таймер** — сколько дней, часов, минут и секунд вы вместе
-- 💖 **Интерактивные анимации**:
-  - Клик — разлетающиеся сердечки
-  - Двойной клик — любовные послания
-  - Долгое нажатие — взрыв любви
-  - Курсор-сердечко со шлейфом искр
-  - Летящие лепестки сакуры и мерцающие звёзды
-  - 3D-наклон карточек при наведении
-  - Поднимающиеся сердечки, притягивающиеся к курсору
-- 📱 **Адаптивный дизайн** — работает на телефоне и десктопе
-- 🤳 **Встряхивание телефона** — взрыв сердечек!
+- 🎵 **Music** — background song with volume controls
+- 📸 **Photos** — 15 shared photos in beautiful grids with effects
+- 🎬 **Videos** — 3 videos with autoplay while scrolling
+- ⏱ **Timer** — the number of days, hours, minutes, and seconds you have been together
+- 💖 **Interactive animations**:
+  - Click — hearts burst outward
+  - Double-click — love messages
+  - Long press — love explosion
+  - Heart-shaped cursor with a sparkle trail
+  - Falling sakura petals and twinkling stars
+  - 3D card tilt on hover
+  - Floating hearts attracted to the cursor
+- 📱 **Responsive design** — works on phones and desktops
+- 🤳 **Phone shake** — heart explosion!
 
-## 🛠 Технологии
+## 🛠 Technologies
 
 - HTML5
-- CSS3 (анимации, градиенты, glassmorphism)
+- CSS3 (animations, gradients, glassmorphism)
 - JavaScript (Vanilla JS, Canvas API)
-- Без фреймворков
+- No frameworks
 
-## 📁 Структура
+## 📁 Structure
 
 ```
-├── index.html          # Главная страница
-├── style.css           # Стили и анимации
-├── script.js           # Логика и интерактив
+├── index.html          # Main page
+├── style.css           # Styles and animations
+├── script.js           # Logic and interactions
 ├── assets/
-│   ├── *.mp3           # Музыка
-│   ├── images/         # Фотографии
-│   └── video/          # Видео
+│   ├── *.mp3           # Music
+│   ├── images/         # Photos
+│   └── video/          # Videos
 └── README.md
 ```
 
-## 💜 Сделано с любовью
+## 💜 Made with love
