@@ -26,30 +26,60 @@ document.addEventListener('DOMContentLoaded', () => {
   ];
 
   const LYRICS = [
-    { time: 30.0, text: "Watching the sunrise by the coast," },
-    { time: 33.9, text: "As we both grow older." },
-    { time: 37.5, text: "I cannot describe how I feel," },
-    { time: 41.6, text: "All I know is that we're coming home." },
-    { time: 45.4, text: "So please, don't let me go," },
-    { time: 49.2, text: "Don't let me go..." },
-    { time: 53.2, text: "And if it's right, I don't care how long it takes," },
-    { time: 60.7, text: "As long as I'm next to you," },
-    { time: 64.2, text: "A smile never leaves my face." },
-    { time: 68.1, text: "Save your tears, everything will be okay," },
-    { time: 72.1, text: "All I know is that you're here with me." },
-    { time: 79.9, text: "Watching the sunrise as we grow older, oh-oh..." },
-    { time: 87.7, text: "I can't describe it, oh-oh..." },
-    { time: 91.8, text: "I would live every memory of you" },
-    { time: 95.5, text: "One more time before you drift away in the wind." },
-    { time: 99.5, text: "And all the time we spent," },
-    { time: 103.3, text: "Waiting for the light to take us away," },
-    { time: 107.2, text: "Those were the best moments of my life." },
-    { time: 111.0, text: "I don't care how long it takes," },
-    { time: 118.7, text: "As long as I'm next to you," },
-    { time: 122.3, text: "A smile never leaves my face." },
-    { time: 126.1, text: "Everything will be okay, just don't cry," },
-    { time: 130.2, text: "Because you're here, you're with me..." },
-    { time: 134.0, text: "I can't describe it..." }
+    // Mukhda
+    { time: 21.0,  text: "Rab ki qawwali hai ishq koi" },
+    { time: 24.0,  text: "Dil ki diwali hai ishq koi" },
+    { time: 29.0,  text: "Mehki si pyali hai ishq koi" },
+    { time: 36.0,  text: "Subah ki laali hai ishq koi" },
+    { time: 32.0,  text: "Girta sa jharna hai ishq koi" },
+    { time: 35.0,  text: "Uthta sa kalma hai ishq koi" },
+    { time: 38.0,  text: "Saanson mein lipta hai ishq koi" },
+    { time: 41.0,  text: "Aankhon mein dikhta hai ishq" },
+
+    { time: 43.0,  text: "Mere dil ko tu jaan se juda kar de" },
+    { time: 48.0,  text: "Yun bas tu mujhko fanaa kar de" },
+    { time: 54.0,  text: "Mera hal tu, meri chaal tu" },
+    { time: 58.0,  text: "Bas kar aashiqana" },
+
+    { time: 60.0,  text: "Tere waaste mera ishq sufiyana" },
+    { time: 63.0,  text: "Mera ishq sufiyana" },
+    { time: 65.0,  text: "Mera ishq sufiyana" },
+
+    // Repeat
+    { time: 72.0,  text: "Rab ki qawwali hai ishq koi" },
+    { time: 76.0, text: "Dil ki diwali hai ishq koi" },
+    { time: 78.0, text: "Mehki si pyali hai ishq koi" },
+    { time: 81.0, text: "Subah ki laali hai ishq" },
+
+    // Verse 2
+    { time: 120.0, text: "Sochu tujhe toh hai subah" },
+    { time: 128.0, text: "Sochu tujhe toh shaam hai" },
+    { time: 136.0, text: "Ho o, manzilon pe ab toh meri ek hi tera naam hai" },
+    { time: 150.0, text: "Tere aag mein hi jalte, koyle se heera bante" },
+    { time: 155.0, text: "Khwaabon mein aage chalte hain, tujhe batana" },
+
+    { time: 160.0, text: "Tere waaste mera ishq sufiyana" },
+    { time: 163.0, text: "Mera ishq sufiyana" },
+    { time: 164.0, text: "Mera ishq sufiyana" },
+
+    // Bridge
+    { time: 215.0, text: "Saath-saath chalte-chalte haath chhoot jayenge" },
+    { time: 220.0, text: "Aisi raahon mein milo na" },
+    { time: 226.0, text: "Baatein-baatein karte karte rat kat jaayegi" },
+    { time: 232.0, text: "Aisi raaton mein milo na" },
+
+    { time: 236.0, text: "Kya hum hain, kya rab hai" },
+    { time: 240.0, text: "Jahan tu hai wahin sab hai" },
+    { time: 242.0, text: "Tere lab mile, mere lab khile" },
+    { time: 243.0, text: "Ab dur kya hai jaana" },
+
+    { time: 247.0, text: "Tere waaste mera ishq sufiyana" },
+    { time: 251.0, text: "Mera ishq sufiyana" },
+    { time: 253.0, text: "Mera ishq sufiyana" },
+
+    { time: 259.0, text: "Tere waaste mera ishq sufiyana" },
+    { time: 263.0, text: "Mera ishq sufiyana" },
+    { time: 265.0, text: "Mera ishq sufiyana" },
   ];
 
   /* ========== STATE ========== */
